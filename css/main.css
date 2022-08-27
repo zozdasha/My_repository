@@ -1,0 +1,56 @@
+html {
+    background-color: rgb(241, 242, 245);
+    margin: 10px;
+    padding: 5px;
+}
+
+
+header {
+    background-color: rgb(229, 229, 229);
+    border-width: 2px;
+    border-style: dotted;
+    border-color: rgb(34, 23, 135);
+    border-image: initial;
+}
+
+
+h1 {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    text-shadow: darkgrey 2px 2px;
+    text-decoration-line: underline;
+    text-align: center;  
+}
+
+
+.profile {
+    float: left;
+    width: 50%;
+}
+
+
+img {
+    width: 490px;
+    height: 285px;
+}
+
+
+h3 {
+    color: rgb(36, 15, 64);
+}
+
+
+.experience p {
+    border-left: 2px;
+    padding: 8px;
+    border-left-style: dotted;
+    border-color: rgb(34, 23, 135);
+}
+
+
+.education p {
+    border-left: 2px;
+    padding: 8px;
+    border-left-style: dotted;
+    border-color: rgb(34, 23, 135);
+}
+  
